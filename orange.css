@@ -1,0 +1,51 @@
+body{
+	margin: 0;
+}
+.lon{
+	background-color: black;
+	padding: 20px 200px;
+	display: flex;
+	justify-content: space-between;
+}
+.lon a{
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+}
+.lan{
+	text-align: center;
+	padding: 50px 200px;
+	background-color: rgb(220,220,220);
+}
+.lan h1{
+	font-size: 40px;
+}
+.lan img{
+	height: 300px;
+	border-radius: 100%;
+	box-shadow: 0px 0px 5px black;
+}
+.lan p{
+	text-align: justify;
+	font-size: 16px;
+	font-family: sans-serif;
+	margin-top: 20px;
+}
+.len{
+	padding: 20px 200px;
+}
+.len p{
+	text-align: justify;
+	font-family: sans-serif;
+	margin-bottom: 20px;
+}
+.lyn{
+	background-color: black;
+	padding: 50px 200px;
+} 
+.lyn p{
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 20px;
+}

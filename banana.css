@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+	font-family: sans-serif;
+}
+.hat{
+	background-color: black;
+	display: flex;
+	justify-content: space-between;
+	padding: 20px 200px;
+}
+.hat a{
+	color: white;
+	text-decoration: none;
+}
+.banana{
+	text-align: center;
+	padding: 20px 200px;
+}
+.banana h1{
+	font-size: 60px;
+}
+.banana img{
+	width: 600px;
+}
+.banana p{
+	text-align: justify;
+}
+.footer p{
+	text-align: center;
+	color: white;
+ } 
+.footer{
+	background-color: black;
+	padding: 50px  200px;
+}

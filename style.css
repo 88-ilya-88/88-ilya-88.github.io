@@ -1,0 +1,55 @@
+body{
+	margin: 0px;
+	font-family: sans-serif;
+}
+.hat{
+	display: flex;
+	justify-content: space-between;
+	padding-right: 250px;
+	padding-left: 250px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: black;			/*цвет заднего фона*/
+}
+.hat a{
+	font-size: 18px;
+	text-decoration: none;
+	color: white;						/*цвета шрифта*/
+}
+.img{
+	height: 500px;						/*высота*/
+	background-image: url(apple.jpeg);	/*картинка заднего фона*/
+	background-repeat: no-repeat;		/*повтор заднего фонпа*/
+	background-size: cover;				/*размер заднего фона*/
+}
+.text{
+	width: 80%;
+	margin: auto;
+	padding-top: 30px;
+	padding-left: 50px;
+	padding-bottom: 30px;
+	padding-right: 50px;
+}
+.text h1{
+	font-size: 60px;
+	text-align: center;
+	margin: 0;
+	margin-bottom: 30px;																																																																																																																			
+}
+.text p{
+	font-size: 18px;
+	text-align: justify;
+}
+.footer{
+	background-color:black;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+.footer p{
+	color: white;
+	text-align: center;
+}
+
+
